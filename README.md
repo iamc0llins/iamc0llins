@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Collins Elenwo</h1>
+<h1 align="center">Hi 👋, I'm Collins</h1>
 <h3 align="center">A passionate software engineer from nigeria</h3>
 
 - 🔭 I’m currently working on **Laravel Projects**
