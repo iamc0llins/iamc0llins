@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Collins</h1>
 <h3 align="center">A passionate software engineer from nigeria</h3>
 
-- 🔭 I’m currently working on **Laravel Projects**
+- 🔭 I’m currently working on **Laravel and Nest JS Projects**
 
-- 🌱 I’m currently learning **React, Redux and Node JS**
+- 🌱 I’m currently learning **React, Redux, Next JS**
 
 - 👯 I’m looking to collaborate on **React Projects**
 
-- 💬 Ask me about **PHP, Javascript**
+- 💬 Ask me about **PHP, Javascript, Python**
 
 - 📫 How to reach me **elenwocollins30@gmail.com**
 
