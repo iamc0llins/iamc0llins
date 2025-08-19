@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Collins</h1>
 <h3 align="center">A passionate software engineer from nigeria</h3>
 
-- 🔭 I’m currently working on **Laravel and Nest JS Projects**
+- 🔭 I’m currently working on **PHP, Laravel, Wordpress and Nest JS Projects**
 
 - 🌱 I’m currently learning **React, Redux, Next JS**
 
